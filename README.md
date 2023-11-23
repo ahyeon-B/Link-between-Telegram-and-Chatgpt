@@ -11,12 +11,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[[수업 교재에 있는 ChatGPT API 사용 코드 적용]]**  <br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[[실제 연동 시 해당 코드 사용]]**  <br>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[[연동하지 않을 경우 해당 코드 추가 후 주석 처리]]**  <br>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**return "GPT Echo 결과값**  <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**return "GPT Echo 결과값"**  <br>  
 <br>
 
 ****실행 화면**  <br>    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1.**  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**:**  <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**1. 콘솔창**  <br>  
+![image](https://github.com/ahyeon-B/Link-between-Telegram-and-Chatgpt/assets/110444794/007c04e0-6340-4bba-97a3-eb774fc91d25)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2.**  <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**:**  <br>  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**2. 실행화면**  <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**: WRITE_MESSAGE!에 아래 질문을 순서대로 넣어서 실행한 결과**  <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(1) 여름에 대한 시를 써줘.**  <br>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(2) 김치찌개 레시피를 알려줘.**  <br>  
+![image](https://github.com/ahyeon-B/Link-between-Telegram-and-Chatgpt/assets/110444794/116dd3de-2ebb-4047-90e3-c687d2a8e568)
